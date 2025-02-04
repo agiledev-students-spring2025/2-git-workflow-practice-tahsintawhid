@@ -10,3 +10,8 @@ One of the most striking points in the article is how the Center for Humane Tech
 ## Why This Matters  
 
 Understanding the impact of social media on mental health is important for developers and designers building digital platforms. The choices we make while developing our software can have consequences on the greater population. Therefore, we will need to promote postiive interactions and give users more control over their experience to help lower the negative effects of social media apps. As technology evolves, the focus on its psychological and sociological implications must also grow. 
+
+# Comments
+
+### SewonKim's Comment
+Hey, I have read the posted article and I strongly agree with its contents. As someone who has previously been addicted to scrolling on social media, I believe social media has its harmful effects and must be addressed. Perhaps some legal regulation on the algorithms and data collection systems run on social media platforms by big tech companies. This could be one way to lead a brighter future.
