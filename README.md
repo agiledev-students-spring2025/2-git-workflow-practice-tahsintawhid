@@ -18,3 +18,6 @@ Hey, I have read the posted article and I strongly agree with its contents. As s
 
 ### James' Comment
 I agree with the article's sentiment that social media poses mental health risks, especially for young people. While there are many benefits such as access to information and the ability to connect with people, there are also many ways its excessive use can bring about negative emotions such as anxiety and feelings of hopelessness. I think regulations and other legal actions could somewhat help mitigate overdependency and reduce the harmful mental effects of social media and other technology.
+
+### Sam's Comment
+I agree with this article all the way through. I think that tech giants have no incentive to make their apps better for teen health as long as they're making money. Algorithms abuse the brain's reward centers and get developing minds addicted to the positive reinforcement of dopamine. I think that social media has a lot of positives, as James pointed out, but laws and regulations could cause change in the social media landscape and reduce the harmful effect that it has on the youth.
