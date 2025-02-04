@@ -15,3 +15,6 @@ Understanding the impact of social media on mental health is important for devel
 
 ### SewonKim's Comment
 Hey, I have read the posted article and I strongly agree with its contents. As someone who has previously been addicted to scrolling on social media, I believe social media has its harmful effects and must be addressed. Perhaps some legal regulation on the algorithms and data collection systems run on social media platforms by big tech companies. This could be one way to lead a brighter future.
+
+### James' Comment
+I agree with the article's sentiment that social media poses mental health risks, especially for young people. While there are many benefits such as access to information and the ability to connect with people, there are also many ways its excessive use can bring about negative emotions such as anxiety and feelings of hopelessness. I think regulations and other legal actions could somewhat help mitigate overdependency and reduce the harmful mental effects of social media and other technology.
